@@ -3,6 +3,7 @@
 </template>
 
 <script>
+import { Options, Vue } from "vue-class-component";
 import HeaderTop from './components/HeaderTop.vue'
 
 @Options({
