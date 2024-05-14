@@ -9,7 +9,7 @@
           <li class="header_business"><a href="#">비즈니스</a></li>
           <li class="header_support"><a href="#">지원</a></li>
           <li class="header_community"><a href="#">커뮤니티</a></li>
-          <li class="header_accesorry"><a href="#">액세서리</a></li>
+          <li class="header_accessory"><a href="#">액세서리</a></li>
         </ul>
         <ul class="header_right_menu">
           <li class="header_search"></li>
@@ -38,6 +38,7 @@ header {
   width: 100%;
   height: 44px;
   background: #f9f9fb;
+  z-index: 10;
 }
 .header_wrap {
   width: 1000px;
